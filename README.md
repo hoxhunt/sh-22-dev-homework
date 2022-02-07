@@ -6,7 +6,7 @@ Welcome to Summer Hunters 2022 assignment phase!
 
 Within this assignment you are tasked to create your own Tamagotchi, or in this case Porcugotchi! Porcu is a fantastic fish -like creature who loves to play and eat.
 
-We don't expect you to use more than 8 hours doing this. If you get stuck, try doing something else.
+We don't expect you to use more than 8 hours doing this. If you get stuck, try doing something else. If you want, you can focus on the frontend or backend. Just remember to highlight your strengths with what you choose to do! 
 
 ### Tasks:
 
